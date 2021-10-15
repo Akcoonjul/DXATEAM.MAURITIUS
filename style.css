@@ -52,6 +52,7 @@
   text-align: center;
   cursor: pointer;
   transition: all 0.5s ease;
+  color:lightblue;
 }
 .sidebar.open .logo-details #btn{
   text-align: right;
